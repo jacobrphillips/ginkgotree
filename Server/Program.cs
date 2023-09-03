@@ -1,4 +1,6 @@
+global using ginkgotree.Shared;
 using Microsoft.AspNetCore.ResponseCompression;
+
 
 namespace ginkgotree
 {

@@ -1,4 +1,3 @@
-using ginkgotree.Shared;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ginkgotree.Server.Controllers
